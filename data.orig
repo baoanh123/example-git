@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-s11111111111111111111assddddddddddddddddddddddddddddddddddddddddddddddddd
-,22222222222222222222master,22222222222222222222master,22222222222222222222master
-=======
 s11111111111111111111aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-22222222222222222222
->>>>>>> dsfds
+,22222222222222222222master,22222222222222222222master,22222222222222222222master
 issue2... issue2
 issue03....issue03
 pull new local...pull new local.
@@ -59,7 +54,11 @@ step 11:sadnaisdiashdisahd dsajdiuashdiuashdi
 ----------------------------------------------------------------------------------------
 test rebase
 fork rebase... ++++++++++
+<<<<<<< HEAD
 s
+=======
+
+>>>>>>> uupdate data
 
 
 
