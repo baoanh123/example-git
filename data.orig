@@ -1,6 +1,9 @@
 s11111111111111111111aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
->>>>>>> dsfds
-22222222222222222222
+<<<<<<< HEAD
+,22222222222222222222master,22222222222222222222master,22222222222222222222master
+=======
+22222222222222222222, ,fork,fork,forkforkforkforkfork
+>>>>>>> sadasdas
 issue2... issue2
 issue03....issue03
 pull new local...pull new local.
